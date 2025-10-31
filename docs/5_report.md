@@ -7,7 +7,7 @@ nav_order: 8
 
 
 
-# Holbæk -  Innovating Local Education Opportunities
+# Holbæk -  Innovating Local Education Opportunities(sticky note was '_Attract more education opportunities to Holbeak_' 
 
 ## ISO37101 mapping '
 

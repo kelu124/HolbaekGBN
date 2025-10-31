@@ -7,7 +7,7 @@ nav_order: 15
 
 
 
-# Revitalizing Jyderup -  Nature Meets Community
+# Revitalizing Jyderup -  Nature Meets Community(sticky note was '_Jyderup Bymidte Project trategy for city centre_' 
 
 ## ISO37101 mapping '
 

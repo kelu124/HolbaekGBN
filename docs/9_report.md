@@ -7,7 +7,7 @@ nav_order: 12
 
 
 
-# HUSC -  Holbæk's Education Revolution
+# HUSC -  Holbæk's Education Revolution(sticky note was '_HUSC_' 
 
 ## ISO37101 mapping '
 
